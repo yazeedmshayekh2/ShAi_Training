@@ -12,13 +12,13 @@ The cut of a diamond refers to how well the diamond’s facets interact with lig
 
 It is not to be confused with the shape, (like emerald or round,) or facet arrangement, (like brilliant, or step cut), but is instead a reference to the craftsmanship of the diamond and how it factors into the diamond’s brilliance.
 
-4cs-cut-2048x320.png
+![AGS Clarity Scale-1024x363](https://user-images.githubusercontent.com/102586302/194700452-6ac4ec12-eeaa-495f-9047-73ed738a9cd3.png)
 
 color :diamond color, from J (worst) to D (best)
 
 The Color of a diamond actually refers to the lack of color in a diamond, with perfectly colorless diamonds considered the highest quality with the highest value, and brown or yellow diamonds being the lowest quality.
 
-4c1-1.jpg
+
 
 clarity: a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
 
@@ -40,4 +40,4 @@ depth :total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 
 table :width of top of diamond relative to widest point (43--95)
 
-download.png
+
